@@ -1,0 +1,7 @@
+streamlit
+llamaapi
+python-docx
+pypdf2
+matplotlib
+termcolor
+plotly
