@@ -1,0 +1,9 @@
+{
+    "model": "llama3.3-70b",
+    "messages": [
+      {
+        "role": "user",
+        "content": "You are a job description parser. You will extract information from this job description and put them in a .json file. Please parse into a structured JSON format with these fields:\n- required_skills (list of strings)\n- technical_skills (list of strings)\n- soft_skills (list of strings)\n- key_responsibilities (list of strings)\n- required_experience (list of strings)\n- education_requirement (list of strings)\n- location (list of strings). In selecting the information, keep track of the most insightful. "
+      }
+    ]
+  }

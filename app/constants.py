@@ -1,0 +1,5 @@
+LLM_API_KEY = "LA-1e53f055b3724b4e8c9d40cd3f29f1863b346821353846ffb32bd0db06d3c082"
+RESUME_PARSER_JSON_FILE = "llm_instructions/resume_parser_api.json"
+COVER_LETTER_JSON_FILE = "llm_instructions/cover_letter_api.json"
+JOBDESC_JSON_FILE = "llm_instructions/job_desc_api.json"
+MATCHINGSCORE_JSON_FILE = "llm_instructions/matching_score_api.json"
